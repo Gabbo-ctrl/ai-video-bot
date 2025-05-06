@@ -1,0 +1,6 @@
+# requirements.txt placeholder
+openai
+moviepy
+requests
+whisper
+selenium
